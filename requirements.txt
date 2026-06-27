@@ -1,0 +1,6 @@
+streamlit
+psycopg2-binary
+pgvector
+sentence-transformers
+pandas
+numpy
